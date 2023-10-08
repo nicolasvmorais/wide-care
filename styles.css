@@ -1,0 +1,82 @@
+* {
+  font-family: Poppins,Arial;
+  margin: 0;
+  padding: 0;  
+}
+
+.rodape {
+ color: #17233D;
+ font-size: 14px;
+ font-weight: 400;
+ line-height: normal;
+ letter-spacing: 0.875px;
+ padding: 36px;
+ margin-top: 47px;
+ margin-bottom: 178px;
+ cursor: pointer;
+}
+
+
+
+
+
+#botão-sign {
+    border-radius: 6px;
+  border: 1px solid #4CB538;
+ background: #6FBF44;
+  color: white;
+  width: 124px;
+ height: 51px;
+ margin-top: 32px;
+ margin-bottom: 168px;
+ cursor: pointer;
+}
+
+h1 {
+    color: #161A49;
+ font-family: Poppins;
+   font-size: 62px;
+   width: 582px;
+font-weight: 700;
+line-height: 82px;
+letter-spacing: 0.596px;
+margin:342px 57px 47px 84.98px;
+
+}
+
+p {
+    color: #4B505A;
+    font-size: 18px;
+ font-weight: 400;
+ line-height: 33px; /* 183.333% */
+ letter-spacing: 0.5px;
+ width: 493px;
+ margin-top:47px; 
+ margin-right:146px;
+}
+
+
+
+
+.aprenda-mais {
+
+    color: #6FBF44;
+ font-size: 18px;
+ font-weight: 500;
+ line-height: normal;
+ letter-spacing: 1px;
+ margin: 55px 527px 290px 84.98px;
+ cursor: pointer;
+}
+
+
+img {
+    width: 533.834px;
+    height: 466.9px;
+    margin-top:194.2px;
+}
+
+
+h1,p,.aprenda-mais {
+    float: right;
+}
